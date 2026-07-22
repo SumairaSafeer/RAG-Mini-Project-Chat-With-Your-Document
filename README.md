@@ -1,4 +1,4 @@
-# RAG Mini-Project — Chat With Your Own Document
+# RAG Mini-Project: Chat With Your Own Document
 
 **NeuroFive Solutions — Generative AI & Prompt Engineering Internship**  
 **Submitted by: Sumaira Safeer**
@@ -60,7 +60,9 @@ Build a simple **Retrieval-Augmented Generation (RAG)** pipeline that allows an 
 ---
 
 **Made by Sumaira Safeer**  
-Computer Engineer
+**Computer Engineer**
+**Internship:** NeuroFive Solutions — Generative AI & Prompt Engineering
+[LinkedIn](https://www.linkedin.com/in/sumaira-safeer-948804418/)
 
 ---
 
