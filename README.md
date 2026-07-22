@@ -37,7 +37,7 @@ Build a simple **Retrieval-Augmented Generation (RAG)** pipeline that allows an 
 | # | Question | Result |
 |---|----------|--------|
 | 1 | What is the correct price of the ball? | ✅ Correct ($0.05), with full algebra shown. |
-| 2 | Who is the author and what is the context? | ✅ Correct — Sumaira Safeer, NeuroFive internship. |
+| 2 | Who is the author and what is the context? | ✅ Correct: Sumaira Safeer, NeuroFive internship. |
 | 3 | Difference between Run 1 and Run 2? | ✅ Detailed and accurate explanation. |
 | 4 | What persona was used, and why? | ✅ Good explanation of the "expert accountant" persona. |
 | 5 | Why does plain prompting fail? | ✅ Accurate analysis |
@@ -74,7 +74,8 @@ RAG-Mini-Project/
 ## 👩‍💻 Author
 **Sumaira Safeer**
 Computer Engineer
-**Internship:** NeuroFive Solutions — Generative AI & Prompt Engineering
+
+**Internship:** NeuroFive Solutions: Generative AI & Prompt Engineering
 
 **LinkedIn:** [linkedin.com/in/sumaira-safeer-948804418](https://www.linkedin.com/in/sumaira-safeer-948804418/)
 **GitHub:** [github.com/SumairaSafeer](https://github.com/SumairaSafeer)
